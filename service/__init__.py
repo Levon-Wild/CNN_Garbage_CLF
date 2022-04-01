@@ -1,1 +1,0 @@
-print("===Running Service % Powered by Kaka===")
